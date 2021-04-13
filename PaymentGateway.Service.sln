@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentGateway.Service", "PaymentGateway.Service\PaymentGateway.Service.csproj", "{F7071E81-B00C-493B-A922-4B1ECA102A19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentGateway.Repository", "PaymentGateway.Repository\PaymentGateway.Repository.csproj", "{69167E48-6812-462E-869E-B904EA218490}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayementGateway.Tests", "PayementGateway.Tests\PayementGateway.Tests.csproj", "{98DE8DC2-7B4D-46EA-AB37-74E146AD9316}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7071E81-B00C-493B-A922-4B1ECA102A19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7071E81-B00C-493B-A922-4B1ECA102A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7071E81-B00C-493B-A922-4B1ECA102A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7071E81-B00C-493B-A922-4B1ECA102A19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69167E48-6812-462E-869E-B904EA218490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69167E48-6812-462E-869E-B904EA218490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69167E48-6812-462E-869E-B904EA218490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69167E48-6812-462E-869E-B904EA218490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98DE8DC2-7B4D-46EA-AB37-74E146AD9316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98DE8DC2-7B4D-46EA-AB37-74E146AD9316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98DE8DC2-7B4D-46EA-AB37-74E146AD9316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98DE8DC2-7B4D-46EA-AB37-74E146AD9316}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8ACC6F6E-FEB8-402F-8B0E-877029A5CF46}
+	EndGlobalSection
+EndGlobal

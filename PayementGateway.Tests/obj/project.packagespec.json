@@ -1,0 +1,74 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/ifeayelabola/Projects/Checkout/PaymentGateway.Service/PayementGateway.Tests/PayementGateway.Tests.csproj",
+    "projectName": "PayementGateway.Tests",
+    "projectPath": "/Users/ifeayelabola/Projects/Checkout/PaymentGateway.Service/PayementGateway.Tests/PayementGateway.Tests.csproj",
+    "outputPath": "/Users/ifeayelabola/Projects/Checkout/PaymentGateway.Service/PayementGateway.Tests/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "net50"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp5.0": {
+        "projectReferences": {
+          "/Users/ifeayelabola/Projects/Checkout/PaymentGateway.Service/PaymentGateway.Service/PaymentGateway.Service.csproj": {
+            "projectPath": "/Users/ifeayelabola/Projects/Checkout/PaymentGateway.Service/PaymentGateway.Service/PaymentGateway.Service.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp5.0": {
+      "dependencies": {
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[16.5.0, )"
+        },
+        "Moq": {
+          "target": "Package",
+          "version": "[4.16.1, )"
+        },
+        "NUnit": {
+          "target": "Package",
+          "version": "[3.12.0, )"
+        },
+        "NUnit3TestAdapter": {
+          "target": "Package",
+          "version": "[3.16.1, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.AspNetCore.App": {
+          "privateAssets": "none"
+        },
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+    }
+  }
+}

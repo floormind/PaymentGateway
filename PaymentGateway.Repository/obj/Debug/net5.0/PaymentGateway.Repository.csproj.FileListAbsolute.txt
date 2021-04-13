@@ -1,0 +1,12 @@
+/Users/ifeayelabola/Projects/Checkout/PaymentGateway.Service/PaymentGateway.Repository/bin/Debug/net5.0/PaymentGateway.Repository.deps.json
+/Users/ifeayelabola/Projects/Checkout/PaymentGateway.Service/PaymentGateway.Repository/bin/Debug/net5.0/PaymentGateway.Repository.dll
+/Users/ifeayelabola/Projects/Checkout/PaymentGateway.Service/PaymentGateway.Repository/bin/Debug/net5.0/ref/PaymentGateway.Repository.dll
+/Users/ifeayelabola/Projects/Checkout/PaymentGateway.Service/PaymentGateway.Repository/bin/Debug/net5.0/PaymentGateway.Repository.pdb
+/Users/ifeayelabola/Projects/Checkout/PaymentGateway.Service/PaymentGateway.Repository/obj/Debug/net5.0/PaymentGateway.Repository.csprojAssemblyReference.cache
+/Users/ifeayelabola/Projects/Checkout/PaymentGateway.Service/PaymentGateway.Repository/obj/Debug/net5.0/PaymentGateway.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ifeayelabola/Projects/Checkout/PaymentGateway.Service/PaymentGateway.Repository/obj/Debug/net5.0/PaymentGateway.Repository.AssemblyInfoInputs.cache
+/Users/ifeayelabola/Projects/Checkout/PaymentGateway.Service/PaymentGateway.Repository/obj/Debug/net5.0/PaymentGateway.Repository.AssemblyInfo.cs
+/Users/ifeayelabola/Projects/Checkout/PaymentGateway.Service/PaymentGateway.Repository/obj/Debug/net5.0/PaymentGateway.Repository.csproj.CoreCompileInputs.cache
+/Users/ifeayelabola/Projects/Checkout/PaymentGateway.Service/PaymentGateway.Repository/obj/Debug/net5.0/PaymentGateway.Repository.dll
+/Users/ifeayelabola/Projects/Checkout/PaymentGateway.Service/PaymentGateway.Repository/obj/Debug/net5.0/ref/PaymentGateway.Repository.dll
+/Users/ifeayelabola/Projects/Checkout/PaymentGateway.Service/PaymentGateway.Repository/obj/Debug/net5.0/PaymentGateway.Repository.pdb

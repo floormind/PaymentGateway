@@ -1,0 +1,216 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ifeayelabola/Projects/Checkout/PaymentGateway.Service/PayementGateway.Tests/PayementGateway.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/ifeayelabola/Projects/Checkout/PaymentGateway.Service/PayementGateway.Tests/PayementGateway.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ifeayelabola/Projects/Checkout/PaymentGateway.Service/PayementGateway.Tests/PayementGateway.Tests.csproj",
+        "projectName": "PayementGateway.Tests",
+        "projectPath": "/Users/ifeayelabola/Projects/Checkout/PaymentGateway.Service/PayementGateway.Tests/PayementGateway.Tests.csproj",
+        "packagesPath": "/Users/ifeayelabola/.nuget/packages/",
+        "outputPath": "/Users/ifeayelabola/Projects/Checkout/PaymentGateway.Service/PayementGateway.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ifeayelabola/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/ifeayelabola/Projects/Checkout/PaymentGateway.Service/PaymentGateway.Service/PaymentGateway.Service.csproj": {
+                "projectPath": "/Users/ifeayelabola/Projects/Checkout/PaymentGateway.Service/PaymentGateway.Service/PaymentGateway.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ifeayelabola/Projects/Checkout/PaymentGateway.Service/PaymentGateway.Repository/PaymentGateway.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ifeayelabola/Projects/Checkout/PaymentGateway.Service/PaymentGateway.Repository/PaymentGateway.Repository.csproj",
+        "projectName": "PaymentGateway.Repository",
+        "projectPath": "/Users/ifeayelabola/Projects/Checkout/PaymentGateway.Service/PaymentGateway.Repository/PaymentGateway.Repository.csproj",
+        "packagesPath": "/Users/ifeayelabola/.nuget/packages/",
+        "outputPath": "/Users/ifeayelabola/Projects/Checkout/PaymentGateway.Service/PaymentGateway.Repository/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ifeayelabola/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ifeayelabola/Projects/Checkout/PaymentGateway.Service/PaymentGateway.Service/PaymentGateway.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ifeayelabola/Projects/Checkout/PaymentGateway.Service/PaymentGateway.Service/PaymentGateway.Service.csproj",
+        "projectName": "PaymentGateway.Service",
+        "projectPath": "/Users/ifeayelabola/Projects/Checkout/PaymentGateway.Service/PaymentGateway.Service/PaymentGateway.Service.csproj",
+        "packagesPath": "/Users/ifeayelabola/.nuget/packages/",
+        "outputPath": "/Users/ifeayelabola/Projects/Checkout/PaymentGateway.Service/PaymentGateway.Service/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ifeayelabola/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/ifeayelabola/Projects/Checkout/PaymentGateway.Service/PaymentGateway.Repository/PaymentGateway.Repository.csproj": {
+                "projectPath": "/Users/ifeayelabola/Projects/Checkout/PaymentGateway.Service/PaymentGateway.Repository/PaymentGateway.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Braintree": {
+              "target": "Package",
+              "version": "[5.4.0, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[39.43.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
