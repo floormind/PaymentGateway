@@ -13,24 +13,23 @@
 ``` json
 {
     "shopper": {
-        "id": "97fae51d-d210-4d7e-ac04-f8b04800eb95",
-        "customergatewayid": "cus_JINFZ0SrrdVncv",
-        "firstname": "Ife",
-        "lastname": "Ayelabola",
-        "email": "ife_labolz@hotmail.com"
+        "id": <Guid>,
+        "customergatewayid": <Stripe or Braintree customer Id>,
+        "firstname": <string>,
+        "lastname": "<string>",
+        "email": <string>
     },
     "basket": {
-        "id": "d717cec8-9c47-4028-a5f9-a829ba39d960",
+        "id": <Guid>,
         "basketItem": [
             {
-                "id": "cd8b6023-0168-42cc-a00c-5d31cd835635",
-                "name": "PS5",
-                "price": "500"
+                "id": <Guid>,
+                "name": <string>,
+                "price": <string>
             }
         ],
-        "total": "500"
-    },
-    "clienttoken" : ""
+        "total": <string>
+    }
 }
 ```
 
