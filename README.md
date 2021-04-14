@@ -5,6 +5,8 @@
 3) If the Braintree Gateway is being used, you have the change the customergatwayid to 869768490
 
 **http://localhost:5000/payment** 
+
+``` json
 {
     "shopper": {
         "id": "97fae51d-d210-4d7e-ac04-f8b04800eb95",
@@ -26,6 +28,7 @@
     },
     "clienttoken" : ""
 }
+```
 
 4) To fetch a transaction, call the endpoint with a transaction id, one which was returned from the endpoint above 
 http://localhost:5000/payment/payment-history/{transaction-id}
