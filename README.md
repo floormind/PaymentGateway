@@ -1,8 +1,8 @@
 # PaymentGateway
 
 1. To Process a payment call the endpoint **http://localhost:5000/payment** with the below data. It will return Payment Successful with a transaction reference which can be used to get the transaction.
-    1. I created a customer manually on Stripe & Braintree, so if the Stripe gateway is being used use the customergatewayId which is "cus_JINFZ0SrrdVncv"
-    1. If the Braintree Gateway is being used, you have the change the customergatwayid to 869768490
+    1. I created a customer manually on Stripe & Braintree, so if the Stripe gateway is being used use the customergatewayId which is **cus_JINFZ0SrrdVncv**
+    1. If the Braintree Gateway is being used, you have the change the customergatwayid to **869768490**
 
 **http://localhost:5000/payment** 
 
