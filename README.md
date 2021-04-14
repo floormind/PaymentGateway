@@ -16,7 +16,7 @@
         "id": <Guid>,
         "customergatewayid": <Stripe or Braintree customer Id>,
         "firstname": <string>,
-        "lastname": "<string>",
+        "lastname": <string>,
         "email": <string>
     },
     "basket": {
